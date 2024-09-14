@@ -143,3 +143,4 @@ Continue learning about IA by exploring the further resources listed below, and 
 - Community: Information Architecture Institute ([iainstitute.org](https://iainstitute.org))
 - Accessibility Guidelines: Web Content Accessibility Guidelines (WCAG) 2.1 ([w3.org/TR/WCAG21/](https://www.w3.org/TR/WCAG21/))
 - SEO and IA: Moz’s Guide to Information Architecture and SEO ([moz.com/learn/seo/information-architecture](https://moz.com/learn/seo/information-architecture))
+
