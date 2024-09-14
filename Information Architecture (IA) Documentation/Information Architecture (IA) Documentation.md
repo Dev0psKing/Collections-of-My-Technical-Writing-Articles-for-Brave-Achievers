@@ -74,7 +74,8 @@ Effective IA relies on the right tools and techniques. Below are some widely use
 ### Method Example: Using Axure RP
 Axure allows users to create interactive wireframes to test navigation and layout before development begins, ensuring that the IA meets user needs.
 
-*(Consider adding screenshots or diagrams of the tools in action.)*
+![image](https://github.com/user-attachments/assets/fb5eaa49-7bda-40c6-8f80-9b1c0ede9e98)
+
 
 ## 5. Real-World Examples of Successful Information Architecture <a name="real-world-examples"></a>
 
@@ -83,24 +84,32 @@ Axure allows users to create interactive wireframes to test navigation and layou
 #### Amazon
 Amazon's IA features a well-structured hierarchy and intuitive navigation, making it easy to browse through millions of products.
 
-- **Visual Example**: *(Include a screenshot of Amazon's website structure.)*
+- **Visual Example**:
+  ![image](https://github.com/user-attachments/assets/27a77c5e-9d3b-4af8-a0f6-a989bc956f85)
+
 
 #### BBC
 BBC’s IA is designed to cater to a broad audience, with clear categorization and top-level navigation for easy access to news, sports, and more.
 
-- **Visual Example**: *(Include a screenshot of the BBC's website structure.)*
+- **Visual Example**:
+  ![image](https://github.com/user-attachments/assets/b3492fcd-67c7-4ebb-9324-7e7390a21bce)
+
 
 ### Apps:
 
 #### Spotify
 Spotify's app IA is user-friendly, with easy navigation between Home, Search, and Library.
 
-- **Visual Example**: *(Include a screenshot of Spotify's app.)*
+- **Visual Example**:
+  ![image](https://github.com/user-attachments/assets/2a8d50e4-4a1a-4a37-8d23-d2485afe6937)
+
 
 #### Airbnb
 Airbnb’s app organizes listings and filters in a clear, intuitive layout, making it easy for users to find what they need.
 
-- **Visual Example**: *(Include a screenshot of Airbnb's app.)*
+- **Visual Example**:
+  ![image](https://github.com/user-attachments/assets/7d6d2f6a-4954-40a6-82c3-9de560f45738)
+
 
 ## 6. Best Practices for Implementing IA <a name="best-practices"></a>
 
