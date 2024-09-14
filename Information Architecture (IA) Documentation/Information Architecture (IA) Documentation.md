@@ -88,7 +88,8 @@ Amazon's IA features a well-structured hierarchy and intuitive navigation, makin
 #### BBC
 BBC’s IA is designed to cater to a broad audience, with clear categorization and top-level navigation for easy access to news, sports, and more.
 
-- **Visual Example**: *(Include a screenshot of the BBC's website structure.)*
+- **Visual Example**: 
+
 
 ### Apps:
 
