@@ -13,7 +13,7 @@ This repository contains comprehensive documentation on Information Architecture
 ## Why This Repo?
 This repo is perfect for anyone looking to understand the foundational and advanced concepts of Information Architecture. Whether you're building your first sitemap or refining a complex content system, this documentation will guide you through the process.
 
-### [Read the full documentation here]()
+### [Read the full documentation here](https://github.com/Dev0psKing/Collections-of-My-Technical-Writing-Articles-for-Brave-Achievers/blob/master/Information%20Architecture%20(IA)%20Documentation/Information%20Architecture%20(IA)%20Documentation.md)
 
 ## License
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
