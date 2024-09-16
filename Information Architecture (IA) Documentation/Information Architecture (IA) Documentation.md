@@ -250,7 +250,7 @@ Effective Information Architecture is the backbone of a well-organized digital e
 ### Next Steps:
 Continue learning about IA by exploring the further resources listed below, and start applying the principles to your own projects.
 
-# 11. Further Resources <a name="further-resources"></a>
+## 11. Further Resources <a name="further-resources"></a>
 - **Book**: [*Information Architecture for the World Wide Web* by Louis Rosenfeld and Peter Morville](https://www.amazon.com/Information-Architecture-World-Wide-Web/dp/1491911689)
 - **Online Course**: ["Information Architecture" on Interaction Design Foundation](https://www.interaction-design.org/courses/information-architecture)
 - **Website**: [A List Apart's IA articles](https://alistapart.com/topic/information-architecture/)
