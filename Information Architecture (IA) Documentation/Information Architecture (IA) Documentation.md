@@ -81,7 +81,7 @@ Sequence represents the order in which users interact with information. In devel
 
 **Example using React Router:**
 ```
-Copy code
+
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 function App() {
