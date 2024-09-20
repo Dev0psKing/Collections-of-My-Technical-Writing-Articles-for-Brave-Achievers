@@ -65,15 +65,15 @@ class Item:
 Hierarchy shows how information is structured or layered. In development, this could translate to folder structures, database schemas, or API endpoints.
 
 **Example folder structure:**
-```
-project/
-│
-├── src/
-│   ├── components/
-│   ├── pages/
-│   └── utils/
-├── public/
-└── package.json
+```mermaid
+graph TD;
+    project/
+    project/ --> src/
+    project/ --> public/
+    project/ --> package.json
+    src/ --> components/
+    src/ --> pages/
+    src/ --> utils/
 ```
 
 ### 3.3 Sequence
@@ -146,7 +146,8 @@ On the other hand, a content audit is a deeper, qualitative analysis of the cont
 ### 5.2 User Flow Mapping
 Userflow mapping is the process of visually outlining the steps a user takes to complete a specific task or achieve a goal within a digital product, such as a website or mobile app. It illustrates the path the user navigates through the interface, including all decisions, actions, and interactions, from entry point to completion of the task. The goal of userflow mapping is to understand and optimize how users interact with the product, improving usability and overall user experience. So, map out user journeys to design intuitive navigation and efficient API endpoints.
 
-```
+```mermaid
+
 graph TD
 A[Home Page] --> B{User Logged In?}
 B -->|Yes| C[Dashboard]
