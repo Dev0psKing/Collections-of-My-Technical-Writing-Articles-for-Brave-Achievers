@@ -14,6 +14,7 @@
 
 ---
 
+
 ## 1. Tutorial Overview
 
 Welcome to the **Comprehensive Terraform Tutorial**! This guide is crafted to take you from a beginner to an advanced user of Terraform, HashiCorp's powerful Infrastructure as Code (IaC) tool.
